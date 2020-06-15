@@ -1,0 +1,19 @@
+.form {
+  display: flex;
+  justify-content: center;
+}
+
+.form-input {
+  background: none;
+  background-color: white;
+  color: grey;
+  font-size: 18px;
+  padding: 10px 10px 10px 5px;
+  text-align: center;
+  width: 30%;
+  outline: none;
+  border: none;
+  border-radius: 0;
+  border-bottom: 1px solid;
+  margin: 25px 0;
+}
